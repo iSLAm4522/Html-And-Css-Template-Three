@@ -1,5 +1,5 @@
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Elzero Template</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://www.youtube.com/@ElzeroWebSchool" target="_blank">Elzero Web School</a>.
