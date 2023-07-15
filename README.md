@@ -41,6 +41,6 @@
 
 ## Contact
 
-- GitHub [@islam4522](https://www.github.com/islammadian1)
+- GitHub [@islam4522](https://www.github.com/islam4522)
 - Twitter [@islam_madian](https://www.twitter.com/islam_madian)
 - LinkedIn [@islam-madian](https://www.linkedin.com/in/islam-madian/)
